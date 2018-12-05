@@ -54,4 +54,9 @@ public class MainActivity extends AppCompatActivity {
         builder.show();
     }
 
+    public static int getTotal(int a, int b){
+        return a+b;
+
+    }
+
 }
