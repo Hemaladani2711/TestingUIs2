@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestingUIs</string>
+    <string name="none">none</string>
+    <string name="onText">on</string>
+    <string name="offtext">off</string>
+    <string name="toolbar_sign_out">LogOut</string>
+</resources>
